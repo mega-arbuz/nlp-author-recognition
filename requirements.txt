@@ -1,5 +1,5 @@
 tqdm==4.32.2
-nltk==3.4.4
+nltk==3.6.6
 wget==3.2
 scikit-learn==0.21.3
 stanfordcorenlp==3.9.1.1
